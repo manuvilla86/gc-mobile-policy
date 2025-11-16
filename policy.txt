@@ -1,0 +1,15 @@
+POLÍTICA DE PRIVACIDAD - GC Mobile
+
+1. Permiso de Cámara
+Esta aplicación requiere acceso a la cámara de su dispositivo para:
+- Escanear codigo QR relacionado a token de cliente
+- Escanear códigos de barras de productos
+
+Los datos capturados por la cámara se procesan localmente en su dispositivo 
+y no se almacenan ni se comparten con terceros.
+
+2. Datos Personales
+No se recopila ningun dato personal del usuario.
+
+3. Contacto
+www.gestionesucomercio.com.ar
